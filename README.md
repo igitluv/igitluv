@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Greetings, I'm Chris! <br/><a href="https://github.com/igitluv">Programmer</a>/<a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<!--
-**igitluv/igitluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Internal Security Audit Guided Project</b>
+  - [Praciting Internal Auditing](https://github.com/igitluv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>⌨️ Practicing Programming Languages:</h2>
+
+<h2>📃 Certifiactions:</h2>
+
+  - <b>Foundations of Cybersecurity</b>
+    - [Foundations of Cybersecurty](https://coursera.org/account/accomplishments/certificate/SV7N783WVPB3)
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/linksmith/
