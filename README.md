@@ -1,11 +1,13 @@
-<h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">Cybersecurity Professional</a> / <a href="https://github.com/igitluv">Programmer</a>
+<header>
+  <h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">Cybersecurity Professional</a> / <a href="https://github.com/igitluv">Programmer</a>
+</h1>header>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-<nav>
-  <u1>
-    <h3>Internal Security Audit Guided Project <button onclick="window.open('Botium Toys Controls and Compliance Checklist.pdf', '_blank')"> Open .pdf</button></h3>
-  </u1>
-</nav>
+<main>
+        <section id="section1">
+    <h2>👨‍💻 Cybersecurity Projects:</h2>
+      <h3>Internal Security Audit Guided Project <button onclick="window.open('Botium Toys Controls and Compliance Checklist.pdf', '_blank')"> Open .pdf</button></h3>
+         </section>
+</main>
 
 <h2>⌨️ Practicing Programming Languages:</h2>
 
