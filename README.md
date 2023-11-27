@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <nav>
   <u1>
-    <li><h3>Internal Security Audit Guided Project <button onclick="window.open('Botium Toys Controls and Compliance Checklist.pdf', '_blank')"> Open .pdf</button></h3></li>
+    <h3>Internal Security Audit Guided Project <button onclick="window.open('Botium Toys Controls and Compliance Checklist.pdf', '_blank')"> Open .pdf</button></h3>
   </u1>
 </nav>
 
