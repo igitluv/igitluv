@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  <b>Internal Security Audit Guided Project</b>
+  <p>Internal Security Audit Guided Project</p>
 
 <h2>⌨️ Practicing Programming Languages:</h2>
 
