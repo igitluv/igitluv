@@ -15,7 +15,14 @@
 
 <h2>📃 Certifiactions:</h2>
 
-  <b>Foundations of Cybersecurity</b>
+<body>
+        <h3>Cybersecurity—</h3>
+        <nav>
+            <ul>
+                <li><a href="https://www.coursera.org/account/accomplishments/certificate/SV7N783WVPB3" target="_blank">Foundations of Cybesecurity</a></li>            
+            </ul>
+        </nav>
+  </body>
   
 <h2> 🤳 Connect with me:</h2>
 
