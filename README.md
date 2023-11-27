@@ -16,7 +16,7 @@
 <h2>📃 Certifiactions:</h2>
 
 <body>
-        <h4>Cybersecurity—</h4>
+        <h4>Google Cybersecurity Professional—</h4>
         <nav>
             <ul>
                 <li><a href="https://www.coursera.org/account/accomplishments/certificate/SV7N783WVPB3" target="_blank">Foundations of Cybesecurity</a></li>            
