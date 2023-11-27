@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<a href="Botium Toys Controls and Compliance Checklist.pdf" target="_blank">Open PDF</a><h3>Internal Security Audit Guided Project</h3></a>
+<a href="Botium Toys Controls and Compliance Checklist.pdf" target="_blank"><h3>Internal Security Audit Guided Project</h3></a>
 
 <h2>⌨️ Practicing Programming Languages:</h2>
 
