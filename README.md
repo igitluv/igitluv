@@ -2,12 +2,10 @@
   <h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">Cybersecurity Professional</a> / <a href="https://github.com/igitluv">Programmer</a>
 </h1>header>
 
-<main>
-        <section id="section1">
+<section id="section1">
     <h2>👨‍💻 Cybersecurity Projects:</h2>
       <h3>Internal Security Audit Guided Project <button onclick="window.open('Botium Toys Controls and Compliance Checklist.pdf', '_blank')"> Open .pdf</button></h3>
-         </section>
-</main>
+</section>
 
 <h2>⌨️ Practicing Programming Languages:</h2>
 
