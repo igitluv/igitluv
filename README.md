@@ -2,14 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Internal Security Audit Guided Project</b>
+  - <b>Internal Security Audit Guided Project</b>
 
 <h2>⌨️ Practicing Programming Languages:</h2>
 
 <h2>📃 Certifiactions:</h2>
 
   - <b>Foundations of Cybersecurity</b>
-    - [Foundations of Cybersecurty](https://coursera.org/account/accomplishments/certificate/SV7N783WVPB3)
   
 <h2> 🤳 Connect with me:</h2>
 
