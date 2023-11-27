@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <body>
-        <h3>Internal Security Audit Guided Project—</h3>
+        <h4>Internal Security Audit Guided Project—</h4>
         <nav>
             <ul>
                 <li><a href="Botium Toys Controls and Compliance Checklist.pdf" target="_blank">Botium Toys Controls and Compliance Checklist + Reccomendations</a></li>            
@@ -16,7 +16,7 @@
 <h2>📃 Certifiactions:</h2>
 
 <body>
-        <h3>Cybersecurity—</h3>
+        <h4>Cybersecurity—</h4>
         <nav>
             <ul>
                 <li><a href="https://www.coursera.org/account/accomplishments/certificate/SV7N783WVPB3" target="_blank">Foundations of Cybesecurity</a></li>            
