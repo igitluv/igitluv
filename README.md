@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Internal Security Audit Guided Project</b>
-  - [Praciting Internal Auditing](https://github.com/igitluv/InternalAuditingGuidedProject)
 
 <h2>⌨️ Practicing Programming Languages:</h2>
 
