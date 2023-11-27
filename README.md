@@ -1,6 +1,4 @@
-<header>
-  <h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">Cybersecurity Professional</a> / <a href="https://github.com/igitluv">Programmer</a>
-</h1>header>
+<h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">Cybersecurity Professional</a> / <a href="https://github.com/igitluv">Programmer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <section id="section1">
