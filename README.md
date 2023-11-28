@@ -26,4 +26,6 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/linksmith/"><img align="left" alt="ChrisSmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/linksmith/"><img align="left" alt="ChrisSmith | GitHub" width="22px" src="https://ibb.co/wWKkMFj.svg" /></a>
+<a href="https://www.linkedin.com/in/linksmith/"><img align="left" alt="ChrisSmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+<a href="https://www.linkedin.com/in/linksmith/"><img align="middle" alt="ChrisSmith | GitHub" width="22px" src="https://ibb.co/wWKkMFj.svg" /></a>
