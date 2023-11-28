@@ -28,4 +28,4 @@
 
 <a href="https://www.linkedin.com/in/linksmith/"><img align="left" alt="ChrisSmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-<a href="https://igitluv.github.io/igitluv/"><img align="left" alt="ChrisSmith | GitHub" width="22px" src="https://imgur.com/a/a4XD5X0.png" /></a>
+<a href="https://igitluv.github.io/igitluv/"><img align="left" alt="ChrisSmith | GitHub" width="22px" src="github-mark.png" /></a>
