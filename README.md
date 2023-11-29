@@ -17,15 +17,10 @@
 
 <body>
         <h4>Google Cybersecurity Professional—</h4>
-        <nav>
             <ul>
-                <li>
-                        <a href="https://www.coursera.org/account/accomplishments/certificate/SV7N783WVPB3" target="_blank">Foundations of Cybesecurity</a>
-                        
-                        <a href="https://www.coursera.org/account/accomplishments/records/5JMDLPLXS8J8" target="_blank">Play It Safe: Manage Security Risks</a>
-                </li>
+                <li><a href="https://www.coursera.org/account/accomplishments/certificate/SV7N783WVPB3" target="_blank">Foundations of Cybesecurity</a></li>
+                <li><a href="https://www.coursera.org/account/accomplishments/records/5JMDLPLXS8J8" target="_blank">Play It Safe: Manage Security Risks</a></li>
             </ul>
-        </nav>
   </body>
   
 <h2> 🤳 Connect with me:</h2>
