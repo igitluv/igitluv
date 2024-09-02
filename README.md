@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">CLoud Engineering Professional</a> + <a href="https://github.com/igitluv">Programmer</a></h1>
+<h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">Cloud Engineering Professional</a> + <a href="https://github.com/igitluv">Programmer</a></h1>
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
@@ -6,7 +6,7 @@
         <h4>Pending—</h4>
         <nav>
             <ul>
-                <li><a href="Pending.pdf" target="_blank">Botium Toys Controls and Compliance Checklist + Reccomendations</a></li>            
+                <li><a href="Pending.pdf" target="_blank">Pending</a></li>            
             </ul>
         </nav>
   </body>
@@ -16,7 +16,7 @@
 <h2>📃 Certifiactions:</h2>
 
 <body>
-        <h4>Google Cybersecurity Professional—</h4>
+        <h4>Pending—</h4>
             <ul>
                 <li><a href="https://www.null.com" target="_blank">Foundations of Cybesecurity</a></li>
                 <li><a href="https://www.null.com" target="_blank">Play It Safe: Manage Security Risks</a></li>
