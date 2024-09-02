@@ -18,8 +18,8 @@
 <body>
         <h4>Under Construction—</h4>
             <ul>
-                <li><a href="https://www.null.com" target="_blank">Pending</a></li>
-                <li><a href="https://www.null.com" target="_blank">Pending</a></li>
+                <li><a href="https://www.null.null" target="_blank">Pending</a></li>
+                <li><a href="https://www.null.null" target="_blank">Pending</a></li>
             </ul>
   </body>
   
