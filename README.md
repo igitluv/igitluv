@@ -1,12 +1,12 @@
-<h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">Cybersecurity Professional</a> + <a href="https://github.com/igitluv">Programmer</a></h1>
+<h1>Greetings, I'm Chris! <br/><a href="https://www.linkedin.com/in/linksmith/">CLoud Engineering Professional</a> + <a href="https://github.com/igitluv">Programmer</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cloud Engineering Projects:</h2>
 
 <body>
-        <h4>Internal Security Audit Guided Project—</h4>
+        <h4>Pending—</h4>
         <nav>
             <ul>
-                <li><a href="Botium Toys Controls and Compliance Checklist.pdf" target="_blank">Botium Toys Controls and Compliance Checklist + Reccomendations</a></li>            
+                <li><a href="Pending.pdf" target="_blank">Botium Toys Controls and Compliance Checklist + Reccomendations</a></li>            
             </ul>
         </nav>
   </body>
@@ -18,8 +18,8 @@
 <body>
         <h4>Google Cybersecurity Professional—</h4>
             <ul>
-                <li><a href="https://www.coursera.org/account/accomplishments/certificate/SV7N783WVPB3" target="_blank">Foundations of Cybesecurity</a></li>
-                <li><a href="https://www.coursera.org/account/accomplishments/records/5JMDLPLXS8J8" target="_blank">Play It Safe: Manage Security Risks</a></li>
+                <li><a href="https://www.null.com" target="_blank">Foundations of Cybesecurity</a></li>
+                <li><a href="https://www.null.com" target="_blank">Play It Safe: Manage Security Risks</a></li>
             </ul>
   </body>
   
