@@ -16,10 +16,10 @@
 <h2>📃 Certifiactions:</h2>
 
 <body>
-        <h4>Pending—</h4>
+        <h4>Under Construction—</h4>
             <ul>
-                <li><a href="https://www.null.com" target="_blank">Foundations of Cybesecurity</a></li>
-                <li><a href="https://www.null.com" target="_blank">Play It Safe: Manage Security Risks</a></li>
+                <li><a href="https://www.null.com" target="_blank">Pending</a></li>
+                <li><a href="https://www.null.com" target="_blank">Pending</a></li>
             </ul>
   </body>
   
